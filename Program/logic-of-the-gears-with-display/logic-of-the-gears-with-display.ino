@@ -1,22 +1,22 @@
 /*
-   PROJETO CARRO COM MARCHA E DISPLAY PARA MOSTRAR A TROCA DAS MARCHAS
-   Inicio: 05/03/2021
-   Atualizado: 21/05/2021
-   Aula 01: Lógica das marchas
+  CAR DESIGN WITH GEAR AND DISPLAY TO SHOW THE EXCHANGE OF GEARS
+   Start: 05/03/2021
+   Updated: May 21, 2021
+   Lesson 01: Logic of marches
 
-   Materiais:
+   materials:
    01 - 1 x Arduino UNO
-   02 - 5 x Botões
-   03 - Cabos jumper M-M | M-F
-   04 - 2 x Motores com Roda
-   05 - 1 x Ponte H L298D
-   06 - 1 x Chassi
-   07 - 1 x Roda Boba
-   08 - 1 x Display de 7 segmentos
-   09 - 2 x Bateria de 18650
-   10 - 1 x Suporte para bateria 18650
-   11 - 1 x Chaves On/Off
-   12 - 1 x Led verde
+   02 - 5 x Buttons
+   03 - M-M jumper cables | M-F
+   04 - 2 x Wheel motors
+   05 - 1 x Bridge H L298D
+   06 - 1 x Chassis
+   07 - 1 x Boba Wheel
+   08 - 1 x 7-segment display
+   09 - 2 x 18650 battery
+   10 - 1 x Battery holder 18650
+   11 - 1 x Keys On/Off
+   12 - 1 x Green Led
    13 - 1 x Resistor 220Ohm
    14 - 2 x Resistor 330Ohm
 */
